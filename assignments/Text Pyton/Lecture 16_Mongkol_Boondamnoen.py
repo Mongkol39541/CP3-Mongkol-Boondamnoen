@@ -1,0 +1,5 @@
+print(type("HelloWord"))
+print(type(10.1))
+print(type(True))
+print(type(10j))
+print(type(10+3.5))
