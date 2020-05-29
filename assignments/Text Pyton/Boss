@@ -1,0 +1,7 @@
+print("----------------------------------")
+print("ABC Shop VAT INVOICE")
+print("----------------------------------")
+print("Water     X 1  :  10 THB")
+print("Banan     X 1  :  12 THB")
+print("----------------------------------")
+print("Total          :  22 THB")
