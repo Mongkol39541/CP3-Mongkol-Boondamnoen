@@ -1,0 +1,10 @@
+Number1 = float(input())
+Number2 = float(input())
+Totla = Number1 + Number2
+Difference =Number1 - Number2
+Multiple = Number1 * Number2
+Quotient = Number1 / Number2
+print(Number1 ,"+" ,Number2 ,"=" ,Totla)
+print(Number1 ,"-" ,Number2 ,"=" ,Difference)
+print(Number1 ,"*" ,Number2 ,"=" ,Multiple)
+print(Number1 ,"/" ,Number2 ,"=" ,Quotient)
